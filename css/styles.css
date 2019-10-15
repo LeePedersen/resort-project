@@ -1,7 +1,7 @@
 body {
-  background-color: #0B542F;
-  font-family: sans-serif;
-  color: white;
+  background-color: #F3DD1C;
+  font-family: cursive;
+  color: purple;
   background-size: 2000px;
   text-align: center;
 }
@@ -15,7 +15,7 @@ h2 {
 }
 
 h3 {
-  color: lightgray;
+  color: blue;
 }
 
 img {
@@ -23,16 +23,16 @@ img {
 }
 
 .dinoimage {
-  margin-top: 320px;
-  margin-bottom: 100px;
-  margin-left: 150px;
+  margin-top: -500px;
+  width: 2000px;
+  margin-left: -400px;
 }
 
 table {
   width: 99%;
   border: 1px solid;
   padding: 20px;
-  background-color: #0B5454;
+  background-color: rgba(243, 28, 116, 0.9);
   table-layout: fixed;
 }
 
@@ -47,8 +47,11 @@ a {
 .wrapper {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: #0B5454;
+  background-color: rgba(243, 28, 116, 0.9);
   border: 1px solid;
+  width: 400px;
+  margin-top: 200px;
+  margin-left: 100px;
 }
 
 .nav {
